@@ -7,3 +7,4 @@ int main()
 }
 
 // g++ -o output_file_name  hello.cpp
+// ./f.out < input.txt
